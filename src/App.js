@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const App = () => {
-  return (
-    <div>
-      Web Deployment Project
-    </div>
-  )
-}
+  return <div>Web Deployment Project</div>;
+};
 
 export default App;
